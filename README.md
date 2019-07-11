@@ -1,1 +1,2 @@
 # My-project
+This is my first README, i Just did the whole thing by just creating the README on github and then i pulled into the terminal , used the vs code to edit and then i did the usual steps of putting it into the git like git add, commit and all those pichicaca!!
